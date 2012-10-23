@@ -1,0 +1,2 @@
+This is the third rewrite of disclosed.ca
+This time we are using Ruby on Rails.
